@@ -20,7 +20,7 @@
     "@typegoose/typegoose": "^9.3.1",
     "envalid": "^7.2.2",
     "fluent-ffmpeg": "^2.1.2",
-    "grammy": "^1.5.3",
+    "grammy": "^1.30.1",
     "grammy-middlewares": "^1.0.11",
     "lodash": "^4.17.21",
     "mongoose": "^6.1.1",
