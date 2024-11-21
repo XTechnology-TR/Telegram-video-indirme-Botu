@@ -28,7 +28,7 @@
     "random-token": "^0.0.8",
     "rimraf": "^3.0.2",
     "sharp": "^0.30.0",
-    "turbo-downloader": "^1.0.9",
+    "turbo-downloader": "^1.4.0",
     "uuid": "^8.3.2",
     "youtube-dl-exec": "^3.0.2"
   },
